@@ -6,7 +6,7 @@ I'm **Gini Gangadharan**; and officially known as **[Gineesh Madapparambath](htt
 
 And, 
 - 💬 Ask me about Ansible, OpenShift, Kubernetes
-- 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/) | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/) **
+- 📫 Reach me [LinkedIn](https://www.linkedin.com/in/gineesh/) | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
 
 <!--
 Here are some ideas to get you started:
