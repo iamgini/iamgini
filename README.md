@@ -1,8 +1,8 @@
-I'm **Gini Gangadharan**; and officially known as **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/).**. A IT professional born and raised in Kerala/India and currently working in Singapore.
+I'm **Gini Gangadharan**; and officially known as **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)**. An IT professional born and raised in Kerala/India and currently working in Singapore.
 
 - I keep my notes and articles at **[iamgini.com](https://www.iamgini.com/)**
-- I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**. 
 - I also contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
+- I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**. 
 
 And, 
 - 💬 Ask me about Ansible, OpenShift, Kubernetes
