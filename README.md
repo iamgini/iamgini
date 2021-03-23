@@ -3,7 +3,7 @@ I'm **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** ; aka **G
 An IT professional born and raised in Kerala/India and currently working in Singapore.
 
 - I keep my notes and articles at **[iamgini.com](https://www.iamgini.com/)**
-- I am sharing technical/training videos via my **[YouTube Channcel](https://www.youtube.com/techbeatly?sub_confirmation=1)**.
+- I am sharing technical/training videos via my **[YouTube Channel](https://www.youtube.com/techbeatly?sub_confirmation=1)**.
 - I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
 - I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
 - I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
