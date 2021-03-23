@@ -1,13 +1,16 @@
-I'm **Gini Gangadharan**; and officially known as **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)**. An IT professional born and raised in Kerala/India and currently working in Singapore.
+I'm **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** ; aka **Gini Gangadharan**. 
+
+An IT professional born and raised in Kerala/India and currently working in Singapore.
 
 - I keep my notes and articles at **[iamgini.com](https://www.iamgini.com/)**
-- I also contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
-- I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**. 
-
+- I am sharing technical/training videos via my **[YouTube Channcel](https://www.youtube.com/techbeatly?sub_confirmation=1)**.
+- I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
+- I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
+- I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
 
 And, 
 - 💬 Ask me about Ansible, OpenShift, Kubernetes
-- 📫 Reach me [LinkedIn](https://www.linkedin.com/in/gineesh/) | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
+- 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
 
 <!--
 Here are some ideas to get you started:
