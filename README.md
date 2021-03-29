@@ -9,7 +9,7 @@ An IT professional born and raised in Kerala/India and currently working in Sing
 - I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
 
 And, 
-- 💬 Ask me about Ansible, OpenShift, Kubernetes
+- 💬 Ask me about Ansible, OpenShift, Kubernetes, Terraform
 - 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
 
 <!--
