@@ -1,6 +1,6 @@
 I'm **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** ; aka **Gini Gangadharan**. 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=YouTube%20Subscribers&style=social)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/techbeatly?sub_confirmation=1)
 
 An IT professional born and raised in Kerala/India and currently working in Singapore.
 
