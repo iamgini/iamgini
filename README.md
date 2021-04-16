@@ -9,10 +9,16 @@ An IT professional born and raised in Kerala/India and currently working in Sing
 - I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
 - I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
 - I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
-
-And, 
 - 💬 Ask me about Ansible, OpenShift, Kubernetes, Terraform
 - 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
+
+--- 
+:tv: YouTube - Latest Videos
+- [30 Days of Ansible - Full Course](https://www.youtube.com/watch?v=K4wGqwS2RLw&list=PLH5uDiXcw8tSW9Y6FsVsSQJQ88tMPBsbK)
+- [Automate Windows using Ansible](https://www.youtube.com/watch?v=kEeA3iLRstA&t=255s)
+- [Getting Started with Ansible Colletcions](https://www.youtube.com/watch?v=X_QpN9GLGfI&t=1s)
+- [DevOps Roadmap 2021 - Most demanding DevOps skills you need to learn](https://www.youtube.com/watch?v=w9sNpcxjpcs&t=423s)
+- [5 Mistakes you should avoid during CKA/CKAD/CKS Exams](https://www.youtube.com/watch?v=daJs-09iLpY&t=389s)
 
 <!--
 Here are some ideas to get you started:
