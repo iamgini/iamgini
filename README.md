@@ -9,7 +9,7 @@ An IT professional born and raised in Kerala/India and currently working in Sing
 - :newspaper: I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
 - :blue_book: I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
 - :closed_book: I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
-- :speech_balloon: Ask me about [Ansible](https://www.techbeatly.com/ansible), [OpenShift](https://www.techbeatly.com/category/cloud/openshift), [Kubernetes](https://www.techbeatly.com/category/cloud/kubernetes), [Terraform](https://www.techbeatly.com/category/automation/terraform)
+- :speech_balloon: Ask me about **[Ansible](https://www.techbeatly.com/ansible)**, **[OpenShift](https://www.techbeatly.com/category/cloud/openshift)**, **[Kubernetes](https://www.techbeatly.com/category/cloud/kubernetes)**, **[Terraform](https://www.techbeatly.com/category/automation/terraform)**
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [email](mailto:net.gini@gmail.com) | [Instagram](https://www.instagram.com/ginigangadharan/)
 
 --- 
