@@ -39,10 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
 
 
 ## 🌐 Socials:
@@ -55,6 +51,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=iamgini&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamgini&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgini&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=iamgineesh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
