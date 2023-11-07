@@ -1,4 +1,4 @@
-[![](https://github.com/iamgini/iamgini/blob/master/github-cover.png)](https://iamgini.com)
+[![](https://github.com/iamgini/iamgini/blob/master/github-cover-2023Nov07.png)](https://iamgini.com)
 
 I'm **[Gineesh](https://www.linkedin.com/in/gineesh/)** (aka **Gini Gangadharan**), an IT professional born and raised in Kerala/India and currently working in Singapore.
 
