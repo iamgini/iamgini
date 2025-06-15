@@ -1,6 +1,8 @@
 [![](https://github.com/iamgini/iamgini/blob/master/github-cover-2023Nov07.png)](https://iamgini.com)
 
-I'm **[Gineesh](https://www.linkedin.com/in/gineesh/)** (aka **Gini Gangadharan**), an IT professional born and raised in Kerala/India and currently working in Singapore.
+**[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** is an IT professional, was born and raised in Kerala, India, and is currently employed in Singapore.
+
+[Read more](https://www.iamgini.com/about)
 
 Author of "Ansible for Real Life Automation" | Helping on Automation and Containerization using Ansible, OpenShift, Kubernetes and Terraform | techbeatly.com/youtube | SocialKonf.com
 
