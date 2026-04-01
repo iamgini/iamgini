@@ -2,7 +2,7 @@
 
 **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** is an IT professional, was born and raised in Kerala, India, and is currently employed in Singapore.
 
-[Read more](https://www.iamgini.com/about)
+[Read more](https://gineesh.com/about)
 
 Author of "Ansible for Real Life Automation" | Helping on Automation and Containerization using Ansible, OpenShift, Kubernetes and Terraform | techbeatly.com/youtube | SocialKonf.com
 
@@ -12,7 +12,7 @@ Get my book from [Packt](http://techbeatly.com/ansiblebook) or [Amazon](http://t
 
 
 
-- :notebook_with_decorative_cover: I keep my notes and articles at **[iamgini.com](https://www.iamgini.com/)**
+- :notebook_with_decorative_cover: I keep my notes and articles at **[gineesh.com](https://gineesh.com/)**
 - :tv: I am sharing technical/training videos via my **[YouTube Channel](https://www.youtube.com/techbeatly?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/techbeatly?sub_confirmation=1)
 - :newspaper: I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
 - :blue_book: I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
