@@ -14,7 +14,7 @@ Get my book from [Packt](http://techbeatly.com/ansiblebook) or [Amazon](http://t
 - :tv: I am sharing technical/training videos via my **[YouTube Channel](https://www.youtube.com/techbeatly?sub_confirmation=1)**. [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLA_wrgCYV2R2ZHgk1xTCqg?label=Subscribe%20to%20YouTube%20Channel&style=social)](https://www.youtube.com/techbeatly?sub_confirmation=1)
 - :newspaper: I contribute back to the technical community via **[techbeatly.com](https://www.techbeatly.com/)**.
 - :blue_book: I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
-- :closed_book: I also contribute to **[Red Hat Sysadmin Blog](https://www.redhat.com/sysadmin/user/446371)**.
+- :closed_book: I also contribute to **[Red Hat Blog]([https://www.redhat.com/sysadmin/user/446371](https://www.redhat.com/en/authors/gineesh-madapparambath))**.
 - :speech_balloon: Ask me about **[Ansible](https://www.techbeatly.com/ansible)**, **[OpenShift](https://www.techbeatly.com/category/cloud/openshift)**, **[Kubernetes](https://www.techbeatly.com/category/cloud/kubernetes)**, **[Terraform](https://www.techbeatly.com/category/automation/terraform)**
 - :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [Instagram](https://www.instagram.com/ginigangadharan/)
 
