@@ -16,7 +16,7 @@ Get my book from [Packt](http://techbeatly.com/ansiblebook) or [Amazon](http://t
 - :blue_book: I am a fan of travel, food and technology. I share travel related articles via my blog **[rovervibes.com](https://www.rovervibes.com/)**.
 - :closed_book: I also contribute to **[Red Hat Blog]([https://www.redhat.com/sysadmin/user/446371](https://www.redhat.com/en/authors/gineesh-madapparambath))**.
 - :speech_balloon: Ask me about **[Ansible](https://www.techbeatly.com/categories/ansible)**, **[OpenShift](https://www.techbeatly.com/categories/openshift)**, **[Kubernetes](https://www.techbeatly.com/kubernetes)**, **[Terraform](https://www.techbeatly.com/categories/terraform)**
-- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/GiniGangadharan) | [Instagram](https://www.instagram.com/ginigangadharan/)
+- :mailbox: Reach me **[LinkedIn](https://www.linkedin.com/in/gineesh/)** | [YoutTube](https://www.youtube.com/channel/UCLA_wrgCYV2R2ZHgk1xTCqg?sub_confirmation=1) | [Twitter](https://twitter.com/iamgineesh) | [Instagram](https://www.instagram.com/iamgineesh/)
 
 --- 
 :tv: YouTube - Latest Videos
