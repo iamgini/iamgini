@@ -1,5 +1,3 @@
-[![](https://github.com/iamgini/iamgini/blob/master/github-cover-2023Nov07.png)](https://iamgini.com)
-
 **[Gineesh Madapparambath](https://www.linkedin.com/in/gineesh/)** is an IT professional, was born and raised in Kerala, India, and is currently employed in Singapore.
 
 [Read more](https://gineesh.com/about)
